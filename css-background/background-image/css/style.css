@@ -1,0 +1,8 @@
+body{
+    background-image: url(../image/cape-town.png);
+    background-clip: padding-box;
+    background-size: 800px 200px;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: top right;
+}
